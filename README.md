@@ -38,10 +38,11 @@ Users should be able to:
 
 - HTML5
 - CSS3
+- JavaScript
 
 ### Continued development
 
-    I will work on making more Frontend Mentor projects.
+I will work on making more Frontend Mentor projects.
 
 ## Author
 
